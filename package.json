@@ -1,0 +1,25 @@
+{
+  "name": "abz-chat",
+  "version": "0.0.1",
+  "description": "This is appBakerZ Chat system",
+  "main": "lib/abz-chat",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadsumair/abz-chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "“Muhammad <“sumair.sagitarius@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammadsumair/abz-chat/issues"
+  },
+  "homepage": "https://github.com/muhammadsumair/abz-chat#readme"
+}
