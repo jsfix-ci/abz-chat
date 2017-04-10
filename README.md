@@ -5,7 +5,7 @@ A chat system
 
 ## Installation
 
-  `npm install abz-chat`
+  `npm i abz-chat -S`
 
 ## Usage
 
