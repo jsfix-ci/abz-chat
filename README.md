@@ -10,6 +10,13 @@ A chat system
 ## Usage
 
     var chat = require('abz-chat');
+    chat.setup(server);
+    chat.init();
+
+
+## Main Events
+
+'message' is event for send message and receive message
 
 
 ## Tests
