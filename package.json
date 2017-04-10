@@ -1,6 +1,6 @@
 {
   "name": "abz-chat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is appBakerZ Chat system",
   "main": "lib/abz-chat",
   "directories": {
@@ -27,6 +27,8 @@
     "mocha": "^3.2.0"
   },
   "dependencies": {
+    "config": "^1.25.1",
+    "mongoose": "^4.9.4",
     "socket.io": "^1.7.3"
   }
 }
